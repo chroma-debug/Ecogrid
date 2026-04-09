@@ -1,6 +1,6 @@
 # EcoGrid
 
-**EcoGrid** is a zero-backend, AI-powered home energy calculator that helps users track, visualize, and reduce their carbon footprint. By leveraging Llama 3.3 and live weather data, EcoGrid delivers hyper-personalized, location-aware energy insights that turn behavioral psychology and cost-saving incentives into real-world climate action.
+**EcoGrid** is a zero-backend, AI-powered home energy calculator that helps users track, visualize, and reduce their carbon footprint. By leveraging Llama 3.3 and live weather data, EcoGrid delivers hyper-personalized, location-aware energy insights that turn behavioral psychology and cost-saving incentives into real-world climate action.I have built this since earth day is close and to guide people in saving electricity.
 
 ![EcoGrid Preview](https://via.placeholder.com/800x400.png?text=EcoGrid)
 
